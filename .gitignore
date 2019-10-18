@@ -1,0 +1,5 @@
+__pycache__
+extract_morph_newsgroups.ipynb
+model_state.pt
+checkpoint/*
+npy/*
